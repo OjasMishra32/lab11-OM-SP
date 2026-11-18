@@ -47,3 +47,5 @@ def exponent(a, b):
 mul = multiply
 div = divide
 exp = exponent
+sub = subtract
+log = logarithm
